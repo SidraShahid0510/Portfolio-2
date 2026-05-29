@@ -58,4 +58,4 @@ The project is depolyed using Netlify
 
 ## Live link
 
-[Portfolio Live Link]()
+[Portfolio Live Link](https://sidrashahid.netlify.app/)
