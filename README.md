@@ -2,6 +2,8 @@
 
 A personal portfolio website built to showcase my front-end development projects, skills, and experience. The portfolio includes project case studies, responsive layouts, project detail pages, and contact information.
 
+![image alt](https://raw.githubusercontent.com/SidraShahid0510/Portfolio-2/refs/heads/main/portfolio-image.jpg)
+
 ## Features
 
 - Responsive design for desktop, tablet, and mobile devices
@@ -27,33 +29,33 @@ A personal portfolio website built to showcase my front-end development projects
 # Getting Started
 
 ### Clone the Repository
-
+```bash
 git clone <https://github.com/SidraShahid0510/Portfolio-2.git>
-
+```
 ### Navigate to the project folder
-
+```bash
 cd portfolio-2
-
+```
 ### Install Dependencies
-
+```bash
 npm install
-
+```
 ### Start Development Server
-
+```bash
 npm run dev
-
+```
 ### Build
-
+```bash
 npm run build
-
+```
 ### Preview Production Build
-
+```bash
 npm run preview
-
+```
 ## Deployment
 
 The project is depolyed using Netlify
 
 ## Live link
 
-[Portfolio Live Link] ()
+[Portfolio Live Link]()
